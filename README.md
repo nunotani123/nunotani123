@@ -27,3 +27,6 @@
     - [バックエンド](https://github.com/hakusanmap/hakusanmap-frontend)
     - [フロントエンド](https://github.com/hakusanmap/hakusanmap-frontend)
     - [Android app](https://github.com/hakusanmap/AndroidApp)
+## ホームページ作成
+「ノビルらぼ」という塾のホームページをwordPressを用いて作成
+- https://zyukukomatsu.com/
